@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nida Fatima</h1>
 <h3 align="center">I am coding enthusiast</h3>
-<img src=" https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg">
+<img  align=" centre" alt="CODING" width="250" src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg">
+ 
 
 - 📫 How to reach me **2529nida17@gmail.com**
 
