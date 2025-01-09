@@ -21,16 +21,17 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nida-fatima-005649220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/nida-fatima-005649220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://x.com/NidaFatimaaaa" target="_blank">
+  <a href="https://x.com/NidaFatimaaaa" target="_blank" title="X (Twitter)">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" height="40" width="40"/>
   </a>
-   <a href="mailto:2529nida17@gmail.com" target="_blank">
+  <a href="mailto:2529nida17@gmail.com" target="_blank" title="Email">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_email_200.png" alt="Email" height="40" width="40"/>
   </a>
 </p>
+
 
 ---
 
