@@ -9,10 +9,14 @@
 
 ### 🌟 About Me
 
-- 🚀 I love exploring and building projects in **Web Development**, **React**, **Database Management**, and **Full Stack Development**.
-- 📫 Reach out to me at **[2529nida17@gmail.com](mailto:2529nida17@gmail.com)**.
-
----
+- 🚀 I'm passionate about exploring and building **innovative projects** in:
+  - **Web Development** 🌐
+  - **Frontend Development** 🎨
+  - **Full Stack Development** 💻
+  - **React** ⚛️
+  - **Database Management** 🗄️
+  
+- ✨ I love learning new technologies and applying them to real-world problems.
 
 ### 🌐 Connect With Me
 
@@ -22,6 +26,9 @@
   </a>
   <a href="https://x.com/NidaFatimaaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" height="40" width="40"/>
+  </a>
+   <a href="mailto:2529nida17@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_email_200.png" alt="Email" height="40" width="40"/>
   </a>
 </p>
 
@@ -80,6 +87,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=29nidafatima&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="150"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=29nidafatima&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29nidafatima&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 
