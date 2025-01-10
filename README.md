@@ -38,14 +38,15 @@
 
 <hr style="border: 1px solid #ccc; width: 80%;" />
 
-<h2 align="center"> My Stack </h2>
+<h2 align="center"> My Tech Stack </h2>
 <br />
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,materialui,firebase,react,express,mongodb,vercel,vscode,github,mysql,nodejs,java,replit&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,materialui,firebase,react,express,mongodb,vercel,vscode,java,c,github,mysql,nodejs,replit&perline=7" />
   </a>
 </div>
 <br />
+
 
 <hr style="border: 1px solid #ccc; width: 80%;" />
 
