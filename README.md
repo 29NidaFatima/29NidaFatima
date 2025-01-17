@@ -61,10 +61,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29nidafatima&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=29NidaFatima&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
-<hr style="border: 1px solid #ccc; width: 80%;" />
 
 <hr style="border: 1px solid #ccc; width: 80%;" />
 
