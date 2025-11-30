@@ -42,7 +42,7 @@
 <br />
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,materialui,firebase,react,react-native,express,mongodb,vercel,vscode,java,php,laravel,github,mysql,nodejs,replit&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,materialui,firebase,react,nextjs,express,mongodb,vercel,vscode,java,php,laravel,github,mysql,nodejs,replit&perline=7" />
   </a>
 </div>
 <br />
